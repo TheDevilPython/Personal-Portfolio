@@ -1,0 +1,1 @@
+Found. Redirecting to /@barba/core@2.9.7/dist/barba.umd.js
